@@ -3,7 +3,7 @@ Version: 0.3-4
 Date: 2023-08-11
 Title: Pedigree-based mixed-effects models
 Author: Douglas Bates and Ana Ines Vazquez,
-Maintainer: Ana Ines Vazquez <anainesvs@gmail.com>
+Maintainer: Ana Ines Vazquez <avazquez@msu.edu>
 Description: Fit pedigree-based mixed-effects models.
 Depends: R(>= 3.0.0), lme4 (>= 1.0), Matrix (>= 1.0), methods
 LazyLoad: yes
