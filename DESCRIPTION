@@ -1,5 +1,5 @@
 Package: pedigreemm
-Version: 0.3-5
+Version: 0.3-4
 Date: 2023-08-11
 Title: Pedigree-based mixed-effects models
 Author: Douglas Bates and Ana Ines Vazquez,
@@ -12,4 +12,3 @@ License: GPL (>= 2)
 URL: https://github.com/anainesvs/pedigreemm/
 NeedsCompilation: yes
 Repository: CRAN
-
